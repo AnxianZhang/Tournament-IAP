@@ -16,6 +16,8 @@
 #include <assert.h>
 #include <stdbool.h>
 
+#pragma warning(disable:4996) // for scanf
+
 #define NB_MAX_TOURNAMENTS 10
 #define NB_MAX_MATCHS 127 //nb max per tournament
 #define NB_MAX_PLAYERS 128 //nb max per tournament
