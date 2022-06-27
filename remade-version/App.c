@@ -1,5 +1,5 @@
 /**
- * @file Sprint-5.c
+ * @file App.c
  * @author Anxian ZHANG (gadanxianzhang@gmail.com)
  * @brief application providing assistance in 
           the organization of tournaments
