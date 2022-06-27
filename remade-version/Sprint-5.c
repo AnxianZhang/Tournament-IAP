@@ -1,9 +1,10 @@
 /**
- * @file App.c
- * @author Anxian ZHANG (you@domain.com)
- * @brief An application that provide the organisation of a tournament
- * @version 0.1
- * @date 2022-06-06
+ * @file Sprint-5.c
+ * @author Anxian ZHANG (gadanxianzhang@gmail.com)
+ * @brief application providing assistance in 
+          the organization of tournaments
+ * @version 5.5
+ * @date 2022-06-20
  * 
  * @copyright Copyright (c) 2022
  * 

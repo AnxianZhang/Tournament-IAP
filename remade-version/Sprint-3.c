@@ -1,9 +1,10 @@
 /**
- * @file App.c
- * @author your name (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2022-06-06
+ * @file Sprint-3.c
+ * @author Anxian ZHANG (gadanxianzhang@gmail.com)
+ * @brief application providing assistance in 
+          the organization of tournaments
+ * @version 3.0
+ * @date 2022-06-14
  * 
  * @copyright Copyright (c) 2022
  * 
