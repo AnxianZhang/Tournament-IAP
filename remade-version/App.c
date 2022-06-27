@@ -449,31 +449,6 @@ bool isCopied(const Player players[], const char pName[], unsigned int maxP){
     return false; 
 }
 
-// /**
-//  * @brief Sprint 4;
-//  *        Show all players of tournmanet with their scores
-//  * 
-//  * @param tournament [in-out] : the tournament
-//  *
-//  * @see giveScoresToPlayers(const WTATournament *tournament, Player players[], unsigned int idxT, unsigned int maxP)
-//  * @see sortPlayersByScores(Player players[], unsigned int nbSavedPlayers)
-//  */
-// void showRanks(WTATournament *tournament){
-//     for (int i = 0; i < tournament->nbTournaments; ++i)
-//         for (int j = 0; j < NB_MAX_MATCHS; ++j){
-//             unsigned int idxWinner = 0;
-//             unsigned int idxLoser = tournament->tournaments[i].matchs[j].idxLoser;
-//             if (j == NB_MAX_MATCHS - 1) // only for the last match
-//                 idxWinner = tournament->tournaments[i].matchs[j].idxWinner;
-
-//             giveScores(tournament->players, j, idxLoser, idxWinner);
-//         }
-//     sortPlayersByScores(tournament->players, tournament->nbSavedPlayers);
-    
-//     for (int i = 0; i < tournament->nbSavedPlayers; ++i)
-//         printf("%s %u\n", tournament->players[i].name, tournament->players[i].scores);
-// }
-
 /**
  * @brief Sprint 4 and 5;
  *        displays the 4 previous tournaments with the players 
