@@ -1,7 +1,7 @@
 # Tournament-Project
 Frist year in college : first project
 
-#######**Context:** Make an application which allows a tournament to be processed. Which is divided into 5 sprints.
+#######Context: Make an application which allows a tournament to be processed. Which is divided into 5 sprints.
   - Sprint 1: Save and show a tournament
   - Sprint 2: Show all matchs of a players
   - Sprint 3: Show all players of a tourment with their scores, there will be sorted by their names.
