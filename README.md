@@ -9,7 +9,7 @@ Context: Make an application which allows a tournament to be processed. Which is
                   the players and their scores, they will be sorted by their scores, then 
                   by their names (only if they have the same amount of scores).
 
-There is 3 folders:
+<u>There is 3 folders:<u>
   - in-out: It contains 5 directories, in which there are a "in file" and "out file".
             The inG07Sp files are those that the application will handle. 
             Then after the processing, the output data must be the same as the 
