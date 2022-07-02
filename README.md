@@ -1,5 +1,7 @@
 # Tournament-Project
 
+## (original-version) Final mark: 12/20
+
 ### **Context**: Make an application which allows a tournament to be processed. Which is divided into 5 sprints.
   - Sprint 1: Save and show a tournament
   - Sprint 2: Show all matchs of a players
@@ -18,6 +20,5 @@
   - original-version: This version is the one that we made (with Florent Wang) 
                       at the beginning of the first year of college (2021-10 to 2021-12). 
                       Which, we did not finish the project, hence the different files.
-                      Final mark: 12/20
                       
   - remade-version: In this one the project is fully finished (redone on 2022-06-06 to 2022-06-20). 
