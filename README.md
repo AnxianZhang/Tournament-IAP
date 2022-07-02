@@ -16,7 +16,8 @@
             to the selected input file (inG07Sp1, Sp2, Sp3, Sp4 or Sp5).
 
   - original-version: This version is the one that we made (with Florent Wang) 
-                      at the beginning of the first year of college (2021-10 ~ 2021-12). 
+                      at the beginning of the first year of college (2021-10 to 2021-12). 
                       Which, we did not finish the project, hence the different files.
+                      Final mark: 12/20
                       
   - remade-version: In this one the project is fully finished (redone on 2022-06-06 to 2022-06-20). 
