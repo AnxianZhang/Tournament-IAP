@@ -1,6 +1,5 @@
-# Tournament-Project
+# Tournament-Project (first project)
 
-## First project
 ## (original-version) Final mark: 12/20
 
 ### **Context**: Make an application which allows a tournament to be processed. Which is divided into 5 sprints.
