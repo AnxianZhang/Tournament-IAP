@@ -1,4 +1,4 @@
-# Tournament-Project (first project)
+# Tournament (initiation to development)
 
 ## (original-version) Mark: 12/20
 
