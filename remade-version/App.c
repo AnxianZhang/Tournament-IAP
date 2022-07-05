@@ -507,4 +507,5 @@ int main (void){
         else if (strcmp(word, "exit") == 0)
             exit(0);
     }
+    return 0;
 }
