@@ -2,7 +2,7 @@
 
 ## (original-version) Mark: 12/20
 
-### IDE: Visual Studio Code
+### Used IDE: Visual Studio Code
 
 ### **Context**: Make an application which allows a tournament to be processed. Which is divided into 5 sprints.
   - Sprint 1: Save and show a tournament
